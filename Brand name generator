@@ -1,0 +1,5 @@
+print("WELCOME TO BRAND NAME GENERATOR")
+a=input(print("What is the name of the city you grew up in: "))
+b=input(print("Waht is your pet name"))
+c=a+b
+print(c)
